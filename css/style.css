@@ -1,0 +1,25 @@
+
+/* Image Grid 16.06.2018  */
+* {
+	box-sizing: border-box;
+	
+}
+
+html, body {
+
+	font-family: 'Arial', sans-serif;
+	font-size: 20px;
+	background-color: #fff;
+	color: #4d5152;
+}
+
+.container {
+	max-width: 1200px;
+	margin: 20px auto;
+	max-height: 60%;
+	color: #4d5152;
+}
+
+img {
+	display: block;
+}
